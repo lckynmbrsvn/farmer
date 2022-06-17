@@ -130,3 +130,6 @@ dmypy.json
 
 # Executables
 *.exe
+
+# Config
+secret_config.py
